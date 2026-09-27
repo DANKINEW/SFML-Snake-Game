@@ -7,3 +7,4 @@ if you leave the bounds of screen your score resets too.
 i think thats all/
 RELEASE AVAILABLE IN THE RELEASES TAB
 HAVE FUN PLEASE STAR THIS REPO
+this->writeCodeGood(fast, good);
